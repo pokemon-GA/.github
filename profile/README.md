@@ -3,6 +3,9 @@
 We are tring to explode best pokemon party.
 
 ### ======Now, result======
+## CrossOver-Engineの出力結果
+### plotly
+![Figure_1](https://github.com/pokemon-GA/CrossOver-Engine/blob/main/newplot.png)
 ## ES-Engineの出力結果
 ### plotly
 ![Figure_1](https://github.com/pokemon-GA/ES-Engine/blob/main/plotly.png)
